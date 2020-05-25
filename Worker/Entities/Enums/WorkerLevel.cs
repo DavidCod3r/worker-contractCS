@@ -6,8 +6,8 @@ namespace Worker.Entities.Enums
 {
     enum WorkerLevel
     {
-        JUNIOR,
-        MID_LEVEL,
-        SENIOR
+        Junior,
+        MidLevel,
+        Senior
     }
 }
