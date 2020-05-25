@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Worker.Entities
+namespace ExWorker.Entities
 {
     class Department
     {

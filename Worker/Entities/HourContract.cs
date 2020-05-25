@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Worker.Entities
+namespace ExWorker.Entities
 {
     class HourContract
     {
@@ -19,7 +19,7 @@ namespace Worker.Entities
 
         public double TotalValue()
         {
-            return ValuePerHour * Hours;
+            return Hours * ValuePerHour;
         }
     }
 }

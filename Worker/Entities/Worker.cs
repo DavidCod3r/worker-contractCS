@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Dynamic;
 using System.Text;
-using Worker.Entities.Enums;
+using ExWorker.Entities.Enums;
 
-namespace Worker.Entities
+namespace ExWorker.Entities
 {
     class Worker
     {
